@@ -1,4 +1,4 @@
-cd AWS-Serverless/
+cd AWS-Serverless
 code .
 sudo apt remove google-chrome-beta/stable
 sudo apt remove google-chrome-unstable
@@ -37,5 +37,4 @@ amplify push
 npm install @aws-amplify/ui-react
 amplify add hosting
 amplify publish
-
 DELETE ALL : amplify delete
